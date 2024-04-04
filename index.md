@@ -1,5 +1,5 @@
 
-# Tervetuloa GitHub Pages-sivustolleni
+### Tervetuloa GitHub Pages-sivustolleni
 
 ## Tehtäväpalautukset:
 * [Viikko 1](index.md)
