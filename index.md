@@ -4,7 +4,7 @@
 ## Tehtäväpalautukset:
 * [Viikko 1](teht/index.html)
 * [Viikko 2](teht/vko2.md)
-* Viikko 3
+* [Viikko 3](vko3/index.html)
 * Viikko 4
 * Viikko 5
 * Viikko 6
