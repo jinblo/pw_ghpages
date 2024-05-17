@@ -8,5 +8,5 @@
 * [Viikko 4](vko4/index.html)
 * [Viikko 5](vko5/vko5.html)
 * [Viikko 6](vko6/index.html)
-* Harjoitustyö
+* [Harjoitustyö](demo/index.html)
 
